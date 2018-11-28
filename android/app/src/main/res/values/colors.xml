@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue3</color>
+    <color name="colorPrimaryDark">@color/blue3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+
+    <color name="default_white">#fff3f3f3</color>
+
+    <color name="orange0">#ffa500</color>
+    <color name="orange1">#e59400</color>
+    <color name="orange2">#cc8400</color>
+    <color name="orange3">#b27300</color>
+    <color name="orange4">#996300</color>
+    <color name="orange5">#7f5200</color>
+    <color name="orange6">#664200</color>
+    <color name="orange7">#4c3100</color>
+    <color name="orange8">#332100</color>
+    <color name="orange9">#191000</color>
+
+    <color name="orange01">#ffa500</color>
+    <color name="orange02">#ffae19</color>
+    <color name="orange03">#ffb732</color>
+    <color name="orange04">#ffc04c</color>
+    <color name="orange05">#ffc966</color>
+    <color name="orange06">#ffd27f</color>
+    <color name="orange07">#ffdb99</color>
+    <color name="orange08">#ffe4b2</color>
+    <color name="orange09">#ffedcc</color>
+    <color name="orange010">#fff6e5</color>
+
+
+
+    <color name="yellow0">#ffff00</color>
+    <color name="yellow1">#e5e500</color>
+    <color name="yellow2">#cccc00</color>
+    <color name="yellow3">#b2b200</color>
+    <color name="yellow4">#999900</color>
+    <color name="yellow5">#7f7f00</color>
+    <color name="yellow6">#666600</color>
+    <color name="yellow7">#4c4c00</color>
+    <color name="yellow8">#333300</color>
+    <color name="yellow9">#191900</color>
+
+    <color name="yellow01">#ffff00</color>
+    <color name="yellow02">#ffff19</color>
+    <color name="yellow03">#ffff32</color>
+    <color name="yellow04">#ffff4c</color>
+    <color name="yellow05">#ffff66</color>
+    <color name="yellow06">#ffff7f</color>
+    <color name="yellow07">#ffff99</color>
+    <color name="yellow08">#ffffb2</color>
+    <color name="yellow09">#ffffcc</color>
+    <color name="yellow010">#ffffe5</color>
+
+    <color name="red0">#ff0000</color>
+    <color name="red1">#e50000</color>
+    <color name="red2">#cc0000</color>
+    <color name="red3">#b20000</color>
+    <color name="red4">#990000</color>
+    <color name="red5">#7f0000</color>
+    <color name="red6">#660000</color>
+    <color name="red7">#4c0000</color>
+    <color name="red8">#330000</color>
+    <color name="red9">#190000</color>
+
+    <color name="red00">#ff0000</color>
+    <color name="red01">#ff1919</color>
+    <color name="red02">#ff3232</color>
+    <color name="red03">#ff4c4c</color>
+    <color name="red04">#ff6666</color>
+    <color name="red05">#ff7f7f</color>
+    <color name="red06">#ff9999</color>
+    <color name="red07">#ffb2b2</color>
+    <color name="red08">#ffcccc</color>
+    <color name="red09">#ffe5e5</color>
+
+
+
+    <color name="dark_green0">#006400</color>
+    <color name="dark_green1">#005a00</color>
+    <color name="dark_green2">#005000</color>
+    <color name="dark_green3">#004600</color>
+    <color name="dark_green4">#003c00</color>
+    <color name="dark_green5">#003200</color>
+    <color name="dark_green6">#002800</color>
+    <color name="dark_green7">#001e00</color>
+    <color name="dark_green8">#001400</color>
+    <color name="dark_green9">#000a00</color>
+    <color name="dark_green10">#000000</color>
+
+    <color name="dark_green01">#006400</color>
+    <color name="dark_green02">#197319</color>
+    <color name="dark_green03">#328332</color>
+    <color name="dark_green04">#4c924c</color>
+    <color name="dark_green05">#66a266</color>
+    <color name="dark_green06">#7fb17f</color>
+    <color name="dark_green07">#99c199</color>
+    <color name="dark_green08">#b2d0b2</color>
+    <color name="dark_green09">#cce0cc</color>
+    <color name="dark_green010">#e5efe5</color>
+
+    <color name="light_green0">#00ff00</color>
+    <color name="light_green1">#00e500</color>
+    <color name="light_green2">#00cc00</color>
+    <color name="light_green3">#00b200</color>
+    <color name="light_green4">#009900</color>
+    <color name="light_green5">#007f00</color>
+    <color name="light_green6">#006600</color>
+    <color name="light_green7">#004c00</color>
+    <color name="light_green8">#003300</color>
+    <color name="light_green9">#001900</color>
+    <color name="light_green10">#000000</color>
+
+    <color name="light_green00">#00ff00</color>
+    <color name="light_green01">#19ff19</color>
+    <color name="light_green02">#32ff32</color>
+    <color name="light_green03">#4cff4c</color>
+    <color name="light_green04">#66ff66</color>
+    <color name="light_green05">#7fff7f</color>
+    <color name="light_green06">#99ff99</color>
+    <color name="light_green07">#b2ffb2</color>
+    <color name="light_green08">#ccffcc</color>
+    <color name="light_green09">#e5ffef</color>
+    <color name="light_green010">#ffffff</color>
+
+
+    <color name="pink0"> #ff69b4 </color>
+    <color name="pink1"> #e55ea2 </color>
+    <color name="pink2"> #cc5490 </color>
+    <color name="pink3"> #b2497d </color>
+    <color name="pink4"> #993f6c </color>
+    <color name="pink5"> #7f345a </color>
+    <color name="pink6"> #662a48 </color>
+    <color name="pink7"> #4c1f36 </color>
+    <color name="pink8"> #331524 </color>
+    <color name="pink9"> #190a12 </color>
+    <color name="pink10"> #000000 </color>
+
+
+
+    <color name="pink00">  #ff69b4 </color>
+    <color name="pink01"> #ff78bb </color>
+    <color name="pink02"> #ff87c3 </color>
+    <color name="pink03"> #ff96ca </color>
+    <color name="pink04"> #ffa5d2 </color>
+    <color name="pink05"> #ffb4d9 </color>
+    <color name="pink06"> #ffc3e1 </color>
+    <color name="pink07"> #ffd2e8 </color>
+    <color name="pink08"> #ffe1f0 </color>
+    <color name="pink09"> #fff0f7 </color>
+    <color name="pink010"> #ffffff </color>
+
+    <color name="app_blue"> #0072e5 </color>
+
+    <color name="blue0"> #8470ff </color>
+    <color name="blue1"> #7664e5 </color>
+    <color name="blue2"> #6959cc </color>
+    <color name="blue3"> #5c4eb2 </color>
+    <color name="blue4"> #4f4399 </color>
+    <color name="blue5"> #42387f </color>
+    <color name="blue6"> #342c66 </color>
+    <color name="blue7"> #27214c </color>
+    <color name="blue8"> #1a1633 </color>
+    <color name="blue9"> #0d0b19 </color>
+    <color name="blue10"> #000000 </color>
+
+    <color name="blue01"> #8470ff </color>
+    <color name="blue02"> #907eff </color>
+    <color name="blue03"> #928cff </color>
+    <color name="blue04"> #a89aff </color>
+    <color name="blue05"> #b5a9ff </color>
+    <color name="blue06"> #c1b7ff </color>
+    <color name="blue07"> #cdc5ff </color>
+    <color name="blue08"> #08534949 </color>
+    <color name="blue09">#08534949</color>
+    <color name="blue010">#0f534949</color>
+
+    <color name="m_blue0">#0000ff</color>
+    <color name="m_blue1">#0000e5</color>
+    <color name="m_blue2">#0000cc</color>
+    <color name="m_blue3">#0000b2</color>
+    <color name="m_blue4">#000099</color>
+    <color name="m_blue5">#00007f</color>
+    <color name="m_blue6">#000066</color>
+    <color name="m_blue7">#00004c</color>
+    <color name="m_blue8">#000033</color>
+    <color name="m_blue9">#000019</color>
+
+    <color name="plain_blue">#000064</color>
+    <color name="m_blue01">#1919ff</color>
+    <color name="m_blue02">#4c4cff</color>
+    <color name="m_blue03">#6666ff</color>
+    <color name="m_blue04">#7f7fff</color>
+    <color name="m_blue05">#9999ff</color>
+    <color name="m_blue06">#b2b2ff</color>
+    <color name="m_blue07">#ccccff</color>
+    <color name="m_blue08">#e5e5ff</color>
+
+    <color name="azure_blue00">#007fff</color>
+    <color name="azure_blue01">#198bff</color>
+    <color name="azure_blue02">#3298ff</color>
+    <color name="azure_blue03">#4ca5ff</color>
+    <color name="azure_blue04">#66b2ff</color>
+    <color name="azure_blue05">#7fbfff</color>
+    <color name="azure_blue06">#99cbff</color>
+    <color name="azure_blue07">#b2d8ff</color>
+    <color name="azure_blue08">#cce5ff</color>
+    <color name="azure_blue09">#e5f2ff</color>
+
+    <color name="azure_blue0">#007fff</color>
+    <color name="azure_blue1">#0072e5</color>
+    <color name="azure_blue2">#0065cc</color>
+    <color name="azure_blue3">#0058b2</color>
+    <color name="azure_blue4">#004c99</color>
+    <color name="azure_blue5">#003f7f</color>
+    <color name="azure_blue6">#003266</color>
+    <color name="azure_blue7">#00264c</color>
+    <color name="azure_blue8">#001933</color>
+    <color name="azure_blue9">#000c19</color>
+
+    <color name="light_grey">#14000000</color>
+    <color name="light_white">#c7ffffff</color>
+    <color name="dark_grey">#96000000</color>
+
+    <color name="brown00">  #a52a2a </color>
+    <color name="brown01"> #ae3f3f </color>
+    <color name="brown02"> #b75454 </color>
+    <color name="brown03"> #c06969 </color>
+    <color name="brown04"> #c97f7f </color>
+    <color name="brown05"> #d29494 </color>
+    <color name="brown06"> #dba9a9 </color>
+    <color name="brown07"> #e4bfbf </color>
+    <color name="brown08"> #edd4d4 </color>
+    <color name="brown09">#1ef6e9e9</color>
+    <color name="brown010"> #ffffff </color>
+
+
+
+    <color name="brown0"> #a52a2a </color>
+    <color name="brown1"> #942525 </color>
+    <color name="brown1b">#f3842121</color>
+    <color name="brown2"> #842121 </color>
+    <color name="brown3"> #731d1d </color>
+    <color name="brown4"> #631919 </color>
+    <color name="brown5"> #521515 </color>
+    <color name="brown6"> #421010 </color>
+    <color name="brown7"> #310c0c </color>
+    <color name="brown8"> #210808 </color>
+    <color name="brown9"> #100404 </color>
+    <color name="brown10"> #000000 </color>
+
+    <color name="white60">#a0ffffff</color>
+    <color name="white_two">#efefef</color>
+    <color name="white_three">#ebebeb</color>
+    <color name="white_four">#e0e0e0</color>
+    <color name="white_five">#dadada</color>
+    <color name="blue">#031cd7</color>
+    <color name="gray">#333333</color>
+    <color name="dark_gray">#282a2b</color>
+    <color name="dark_grey_two">#191a1b</color>
+    <color name="warm_grey">#7f7f7f</color>
+    <color name="warm_grey_two">#9c9c9c</color>
+    <color name="warm_grey_three">#8b8b8b</color>
+    <color name="warm_grey_four">#979797</color>
+    <color name="dark_mint">#51c05c</color>
+    <color name="cornflower_blue_two">#4f62d7</color>
+    <color name="cornflower_blue_two_24">#3d4f62d7</color>
+    <color name="cornflower_blue_two_dark">#475bd4</color>
+    <color name="cornflower_blue_light_40">#64bec5f7</color>
+
+    <color name="dialog_divider">@color/white_three</color>
+    <color name="dialog_title_text">@color/dark_gray</color>
+    <color name="dialog_message_text">@color/warm_grey</color>
+    <color name="dialog_date_text">@color/warm_grey_two</color>
+    <color name="dialog_unread_text">@color/white</color>
+    <color name="dialog_unread_bubble">@color/dark_mint</color>
+
+    <color name="cornflower_blue">#6274e2</color>
+    <color name="cornflower_blue_dark">#303F9F</color>
+    <color name="cornflower_blue_darkest">#2d3a93</color>
+    <color name="gray_light">#e8e8e8</color>
+    <color name="gray_transparent">#a6efefef</color>
+    <color name="gray_dark">#858585</color>
+    <color name="gray_dark_transparent">#ae858585</color>
+    <color name="gray_darkest">#ae282828</color>
+    <color name="black_10">#19000000</color>
+    <color name="ivory">#f8efe6</color>
+    <color name="ivory_dark">#f7e8d9</color>
+    <color name="green">#38be55</color>
+    <color name="green_dark">#2da346</color>
+    <color name="red">#e94f4f</color>
+    <color name="brown">#4e342e</color>
+
+
+    <color name="swap_holo_green_bright">#48B94A</color>
+
+    <color name="swap_holo_bule_bright">#4996e5</color>
+
+    <color name="swap_holo_pure_bright">#d066b1</color>
+</resources>
