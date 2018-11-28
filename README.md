@@ -1,6 +1,7 @@
 # sew4me
 
 A new Flutter based app that enables users to sew and customize their cloths via mobile without the need to visit a tailor.
+Project still in development.....
 
 ## Getting Started
 
