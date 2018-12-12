@@ -1,7 +1,9 @@
-# sew4me
+# Sew4me - a Cross-platform Flutter project still in development.... that enables users to sew and customize their cloths via mobile without the need to visit a tailor.
 
-A new Flutter based app that enables users to sew and customize their cloths via mobile without the need to visit a tailor.
-Project still in development.....
+<img src="assets/screenshots/s1.png" width="33%" /> <img src="assets/screenshots/s2.png" width="33%" /> <img src="assets/screenshots/s3.png" width="33%" />
+<img src="assets/screenshots/s4.png" width="33%" /> <img src="assets/screenshots/s5.png" width="33%" /> <img src="assets/screenshots/s6.png" width="33%" />
+<img src="assets/screenshots/s7.png" width="33%" /> <img src="assets/screenshots/s8.png" width="33%" /> <img src="assets/screenshots/s9.png" width="33%" />
+
 
 ## Getting Started
 
